@@ -41,4 +41,13 @@ C --> D[Compute Population per Land-Use Zone]
 D --> E[Visualize Choropleths & Density Maps]
 E --> F[Export HTML/Folium Maps & Statistics]
 
+## Key Findings
+
+1. Mean Polulation densit (polution/km2)y: 64,616
+2. Mean elevation in Kigali: 1478.1 m
+3. Land use summary:
+<img width="384" height="185" alt="image" src="https://github.com/user-attachments/assets/57407556-8cde-4c99-b53d-df584f9add29" />
+
+<img width="989" height="590" alt="Untitled" src="https://github.com/user-attachments/assets/72608ff7-a7ff-4fb7-8c8e-a8e695d3428f" />
+
 
